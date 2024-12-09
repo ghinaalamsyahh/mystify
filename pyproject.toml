@@ -1,0 +1,15 @@
+[project]
+name = "mystify"
+version = "1.0"
+description = "Robustly (and easily) solve hard optimization problems"
+authors = ["Ghina H. Alamsyah <ghinaalamsyah70@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+homepage = "https://ghinaalamsyahh.github.io/mystify"
+repository = "https://github.com/ghinaalamsyahh/mystify"
+keywords = ["complex math", "solve problems", optimizers"]
+
+[build-system]
+[build-system]
+requires = ["setuptools >= 61.0"]
+build-backend = "setuptools.build_meta"
