@@ -10,6 +10,5 @@ repository = "https://github.com/ghinaalamsyahh/mystify"
 keywords = ["complex math", "solve problems", optimizers"]
 
 [build-system]
-[build-system]
-requires = ["setuptools >= 61.0"]
+requires = ["setuptools>=42", "wheel"]
 build-backend = "setuptools.build_meta"
