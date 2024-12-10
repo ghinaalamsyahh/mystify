@@ -1,4 +1,4 @@
-[project]
+[tool.poetry]
 name = "mystify"
 version = "1.0"
 description = "Robustly (and easily) solve hard optimization problems"
